@@ -13,3 +13,9 @@ ECS is useful for performance however I don't see it's viability for usage in sm
 
 I have a blog post going into more details of this project: https://codewithajay.com/?p=40
 
+## Scenes
+
+- Performance Testing: This scene has around 2000 units, tested to work around 150 FPS on my machine - the units will go to where you click
+- Formation: This scene shows an example of how you can lay out units into various shapes and formations while preserving their collisions and rough shape
+
+![Screenshot 2024-08-21 at 1 24 34 am](https://github.com/user-attachments/assets/b35c688b-3713-43d3-b61a-cc1fec24ad0e)
